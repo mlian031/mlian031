@@ -1,6 +1,6 @@
 Math & Economics @ uOttawa
 
-I'm interested in computational finance, time series econometrics, heterogenous-agent models and all things math-y and rational!
+I'm interested in computational finance, time series econometrics, heterogeneous-agent models and all things math-y and rational!
 
 Currently working on the [**Canadian Housing Observatory**](https://github.com/mlian031/canadian-housing-observatory), a real-time monitoring platform for housing market dynamics in Canada. I've also worked on **importance sampling methods** for options pricing and **time series anomaly detection** using RNNs. 
 
