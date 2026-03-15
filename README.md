@@ -10,5 +10,4 @@ Familiar with Python, R, Typescript, PyTorch, GCP, Docker, Kubernetes.
 
 I'm broadly curious, and always eager to discuss new ideas and cool topics - please reach out! 🌱
 
-x: [@m1keql](https://x.com/m1keql) \
 email: [mlian031@uottawa.ca](mailto:mlian031@uottawa.ca)
